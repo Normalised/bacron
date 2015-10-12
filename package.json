@@ -1,0 +1,26 @@
+{
+  "name": "bacron",
+  "version": "1.0.0",
+  "description": "Pr0k Bacron",
+  "main": "src/bacron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/bacron.js"
+  },
+  "keywords": [
+    "pr0k",
+    "bacron"
+  ],
+  "author": "MDK",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.0",
+    "inotify": "^1.2.1",
+    "lodash": "^3.7.0",
+    "mysql": "2.6.2",
+    "q": "^1.2.0",
+    "restler": "^3.2.2",
+    "taglib": "^0.8.1",
+    "walkdir": "0.0.8"
+  }
+}
