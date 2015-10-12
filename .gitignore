@@ -1,0 +1,12 @@
+.DS_Store
+.tmp/
+node_modules/
+bower_components
+dist/
+.idea/
+*.zip
+npm-debug.log
+*.iml
+.compass/
+mysql_data/
+media/
